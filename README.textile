@@ -1,4 +1,6 @@
-h1. Welcome to UML Java Generation by Obeo Network
+h1. This fork is not functional yet
+
+h2. Welcome to UML Java Generation by Obeo Network
 
 This project provides a UML to Java generator created with Acceleo to generate Java code from UML models.
 
